@@ -1,0 +1,9 @@
+// let 3nome = "AAAAAA";
+let nome3 = "AAAAAA";
+let $nome = "AAAAAA";
+let _nome = "AAAAAA";
+// let @nome = "AAAAAA";
+// let !nome = "AAAAAA";
+let Nome = "AAAAAA";
+let seuNome = "AAAAAA";
+let seu_nome = "AAAAAA";
