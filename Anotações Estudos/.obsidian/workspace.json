@@ -1,0 +1,199 @@
+{
+  "main": {
+    "id": "54e90422ed6f6311",
+    "type": "split",
+    "children": [
+      {
+        "id": "0231b051a28c3503",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "99a7283b1f7696e0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Indice/Back-End/Indice PHP.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1c9a7536578bb08b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Indice/Back-End/Indice PHP.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8dd81a734f3310db",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Indice/Back-End/Indice PHP.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "75ecb203c545412a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Back-End/PHP/Teoria/02 - Conceitos Básicos/2.1 - Case Sensitivity.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      },
+      {
+        "id": "2cdd16333013e0d7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f16fb419e327f6b6",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "507dfedebde263f1",
+    "type": "split",
+    "children": [
+      {
+        "id": "bbbec5019515fe26",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "383097876a47683e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b5cc2d92c7312b7e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "214b2adc02ea2e13",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "c876e7b2dccea34b",
+    "type": "split",
+    "children": [
+      {
+        "id": "2c4a9432a6447fcc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3ce5c1706af39136",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "8889e9972bbe0ef8",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2dd7551effe4854c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "ddcb8b92e9c36f43",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "f16fb419e327f6b6",
+  "lastOpenFiles": [
+    "Indice/Back-End/Indice PHP.md",
+    "Indice/Back-End/PHP/PHP - Capitulo 2.md",
+    "Indice/Back-End/PHP/PHP - Cápitulo 1.md",
+    "Back-End/PHP/Teoria/02 - Conceitos Básicos/2.1 - Case Sensitivity.md",
+    "Indice/Indice Front-End.md",
+    "Indice/Indice Back-End.md",
+    "Guia de Estudos.md",
+    "README.md",
+    "Untitled 1.md",
+    "Front-End/Programação Web/Teoria/02 - Funcionamento da Internet.md"
+  ]
+}
