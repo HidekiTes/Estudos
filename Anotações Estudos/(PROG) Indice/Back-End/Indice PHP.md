@@ -34,7 +34,7 @@
 [[PHP - Capitulo 11]]
 
 #### Capitulo 12 - Introdução a OOP
-[[Indice/Back-End/PHP/PHP - Capitulo 12]]
+[[PHP - Capitulo 12]]
 
 #### Capitulo 13 - Datas
 [[PHP - Capitulo 13]]
