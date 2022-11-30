@@ -4,73 +4,55 @@
     "type": "split",
     "children": [
       {
-        "id": "0231b051a28c3503",
+        "id": "0164e4afe3f3bcac",
         "type": "tabs",
         "children": [
           {
-            "id": "99a7283b1f7696e0",
+            "id": "e927a3c13ef8dc40",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "07e844752b6fd345",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "f517a9f36d2caaec",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Indice/Back-End/Indice PHP.md",
+                "file": "Indice/Back-End/PHP/PHP - Capitulo 11.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "1c9a7536578bb08b",
+            "id": "92c11cbe227a46b8",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Indice/Back-End/Indice PHP.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           },
           {
-            "id": "8dd81a734f3310db",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Indice/Back-End/Indice PHP.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "75ecb203c545412a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Back-End/PHP/Teoria/02 - Conceitos Básicos/2.1 - Case Sensitivity.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ],
-        "currentTab": 2
-      },
-      {
-        "id": "2cdd16333013e0d7",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "f16fb419e327f6b6",
+            "id": "efd53d68c98f6563",
             "type": "leaf",
             "state": {
               "type": "graph",
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -120,7 +102,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 306.5
   },
   "right": {
     "id": "c876e7b2dccea34b",
@@ -183,17 +165,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "f16fb419e327f6b6",
+  "active": "efd53d68c98f6563",
   "lastOpenFiles": [
-    "Indice/Back-End/Indice PHP.md",
-    "Indice/Back-End/PHP/PHP - Capitulo 2.md",
-    "Indice/Back-End/PHP/PHP - Cápitulo 1.md",
-    "Back-End/PHP/Teoria/02 - Conceitos Básicos/2.1 - Case Sensitivity.md",
-    "Indice/Indice Front-End.md",
-    "Indice/Indice Back-End.md",
-    "Guia de Estudos.md",
-    "README.md",
-    "Untitled 1.md",
-    "Front-End/Programação Web/Teoria/02 - Funcionamento da Internet.md"
+    "Indice/Back-End/PHP/PHP - Capitulo 12.md",
+    "Indice/Back-End/PHP/PHP - Capitulo 12.md",
+    "Back-End/PHP/Teoria/12 - Introdução a OOP/12.1 - O que são Objetos.md",
+    "Back-End/PHP/Teoria/12 - Introdução a OOP/12.18 - Verificando Objetos.md",
+    "Back-End/PHP/Teoria/12 - Introdução a OOP/12.17 - Verificando Classes.md",
+    "Back-End/PHP/Teoria/12 - Introdução a OOP/12.16 - Classes Anônimas.md",
+    "Back-End/PHP/Teoria/12 - Introdução a OOP/12.15 - Construtores.md",
+    "Back-End/PHP/Teoria/12 - Introdução a OOP/12.14 - Classes Abstratas.md",
+    "Back-End/PHP/Teoria/12 - Introdução a OOP/12.13 - Traits.md",
+    "Back-End/PHP/Teoria/12 - Introdução a OOP/12.12 - Interfaces.md"
   ]
 }
