@@ -2,19 +2,22 @@ Bem vindo ao Glossário deste mapa mental, aonde a idéia é justamente seguir c
 _______________________________________________________________________________
 ## Front-End
 
-[[Indice Front-End]]
+#### Programação Web
+[[Indice Programação Web - Teoria]]
+
+#### JavaScript
+[[Indice JavaScript - Teoria]]
 _______________________________________________________________________________
 ## Back-End
 
-[[Indice Back-End]]
+#### PHP
+[[Indice PHP - Teoria]]
+[[Indice PHP - Exercicios]]
 _______________________________________________________________________________
 ## Outras Tecnologias e Conhecimentos
 
 UX Design - Conceitos de Criação de Interfaces
 _____
-## Recomendações de Livros
-
-[[Recomendações - Livros]]
 
 
 

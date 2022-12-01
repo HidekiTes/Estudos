@@ -1,2 +1,0 @@
-## Estudo - PHP
-[[Indice PHP]]

@@ -8,87 +8,14 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e927a3c13ef8dc40",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "07e844752b6fd345",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "f517a9f36d2caaec",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "(PROG) Indice/Back-End/PHP/PHP - Capitulo 11.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "92c11cbe227a46b8",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "efd53d68c98f6563",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "bacddab77963445a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "(PROG) Back-End/PHP/Teoria/10 - Strings/10.14 - String para Array.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "15784c4d12b8f780",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "(PROG) Indice/Back-End/PHP/PHP - Capitulo 14.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9538df692f6cd359",
+            "id": "a591a88a7b6aedb8",
             "type": "leaf",
             "state": {
               "type": "graph",
               "state": {}
             }
           }
-        ],
-        "currentTab": 7
+        ]
       }
     ],
     "direction": "vertical"
@@ -201,17 +128,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "9538df692f6cd359",
+  "active": "a591a88a7b6aedb8",
   "lastOpenFiles": [
-    "PHP - Capitulo 15.md",
-    "(PROG) Back-End/PHP/Teoria/10 - Strings/10.19 - Decompor uma URL.md",
-    "(PROG) Back-End/PHP/Teoria/10 - Strings/10.18 - Retornando o Resto da String.md",
-    "(PROG) Back-End/PHP/Teoria/10 - Strings/10.17 - Encontrando a Última Ocorrencia.md",
-    "(PROG) Back-End/PHP/Teoria/10 - Strings/10.16 - Encontrando a Primeira Ocorrencia.md",
-    "(PROG) Back-End/PHP/Teoria/10 - Strings/10.15 - Array para String.md",
-    "(PROG) Back-End/PHP/Teoria/10 - Strings/10.14 - String para Array.md",
-    "(PROG) Back-End/PHP/Teoria/10 - Strings/10.13 - Repetição de String.md",
-    "(PROG) Back-End/PHP/Teoria/10 - Strings/10.12 - String Reversa.md",
-    "(PROG) Back-End/PHP/Teoria/10 - Strings/10.11 - Resgatando uma parte da String.md"
+    "(PROG) Front-End/JavaScript/JavaScript - Orientação/Indice JavaScript - Teoria.md",
+    "(PROG) Front-End/JavaScript/JavaScript - Conteúdo/Teoria/03 - Estruturas de Programação/3.8 - O que são estruturas de controle.md",
+    "(PROG) Front-End/JavaScript/JavaScript - Conteúdo/Teoria/03 - Estruturas de Programação/3.9 - O que são estruturas de repetição.md",
+    "(PROG) Front-End/JavaScript/JavaScript - Orientação/JavaScript - Cápitulo 3.md",
+    "(PROG) Front-End/JavaScript/JavaScript - Conteúdo/Teoria/03 - Estruturas de Programação/3.10 - Identação.md",
+    "(PROG) Front-End/JavaScript/JavaScript - Conteúdo/Teoria/03 - Estruturas de Programação/3.14 - Comentários no JavaScript.md",
+    "(PROG) Front-End/JavaScript/JavaScript - Conteúdo/Teoria/03 - Estruturas de Programação/3.13 - Um pouco mais sobre declaração de variáveis.md",
+    "(PROG) Front-End/JavaScript/JavaScript - Conteúdo/Teoria/03 - Estruturas de Programação/3.12 - Pulando uma execução do loop - Continue.md",
+    "(PROG) Front-End/JavaScript/JavaScript - Conteúdo/Teoria/03 - Estruturas de Programação/3.11 - Forçando a saída de um loop - Break.md",
+    "(PROG) Front-End/JavaScript/JavaScript - Conteúdo/Teoria/03 - Estruturas de Programação/3.9 - Estrutura Repetição/3.9.1 - Estrutura de Repetição - While.md"
   ]
 }

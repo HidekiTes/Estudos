@@ -5,34 +5,20 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": false,
-  "collapse-color-groups": true,
+  "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "file:Guia",
-      "color": {
-        "a": 1,
-        "rgb": 12430592
-      }
-    },
-    {
-      "query": "path:Indice",
-      "color": {
-        "a": 1,
-        "rgb": 16777215
-      }
-    },
-    {
-      "query": "path:\"Front-End/Programação Web\"",
-      "color": {
-        "a": 1,
-        "rgb": 14725458
-      }
-    },
-    {
-      "query": "path:Back-End/PHP",
+      "query": "path:\"(PROG) Back-End/PHP\"",
       "color": {
         "a": 1,
         "rgb": 10981375
+      }
+    },
+    {
+      "query": "path:\"(PROG) Front-End/JavaScript\"",
+      "color": {
+        "a": 1,
+        "rgb": 14736466
       }
     }
   ],
@@ -40,12 +26,12 @@
   "showArrow": false,
   "textFadeMultiplier": -0.1,
   "nodeSizeMultiplier": 1.75885416666667,
-  "lineSizeMultiplier": 1.45260416666667,
+  "lineSizeMultiplier": 0.967708333333333,
   "collapse-forces": false,
-  "centerStrength": 0,
-  "repelStrength": 9.47916666666667,
-  "linkStrength": 1,
-  "linkDistance": 277,
-  "scale": 0.11660891579457329,
+  "centerStrength": 0.328125,
+  "repelStrength": 20,
+  "linkStrength": 0.697916666666667,
+  "linkDistance": 214,
+  "scale": 0.026967868953209,
   "close": true
 }
